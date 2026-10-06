@@ -1,0 +1,15 @@
+{
+  // Build:  npm run build:textscan
+  // Deploy: npx wrangler deploy --config apps/textscan/wrangler.jsonc
+  // The deploy creates the worker AND both custom domains (text.fun-zone.app + text.play-zone.app).
+  "name": "textscan",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  },
+  "routes": [
+    { "pattern": "text.fun-zone.app", "custom_domain": true },
+    { "pattern": "text.play-zone.app", "custom_domain": true }
+  ]
+}

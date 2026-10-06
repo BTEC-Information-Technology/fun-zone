@@ -1,0 +1,38 @@
+{
+  "a11y": {
+    "fullscreen": "Fullscreen",
+    "exitFullscreen": "Exit fullscreen",
+    "language": "Change language",
+    "openFilters": "Open filters",
+    "closeFilters": "Close filters"
+  },
+  "search": {
+    "apps": "Search apps...",
+    "tags": "Search tags..."
+  },
+  "filters": {
+    "title": "Filters",
+    "categories": "Categories",
+    "tags": "Tags",
+    "showAll": "Show all",
+    "ok": "Ok",
+    "apply": "Apply filters"
+  },
+  "grid": {
+    "noResults": "No app matches the filters.",
+    "results": "{{count}} apps",
+    "comingSoon": "Coming soon"
+  },
+  "pagination": {
+    "prev": "Previous",
+    "next": "Next",
+    "page": "Page {{page}} of {{total}}"
+  },
+  "ad": {
+    "label": "Advertisement"
+  },
+  "nav": {
+    "privacy": "Privacy",
+    "back": "← Back"
+  }
+}

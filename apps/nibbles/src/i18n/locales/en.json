@@ -1,0 +1,51 @@
+{
+  "ad": "Ad",
+  "menu": {
+    "play": "Play",
+    "help": "Help",
+    "privacy": "Privacy"
+  },
+  "nav": {
+    "back": "← Back"
+  },
+  "hud": {
+    "score": "Score",
+    "level": "Level",
+    "best": "Best"
+  },
+  "overlay": {
+    "intro": "Eat the numbers, grow, and avoid the walls and your own tail.",
+    "controls": "Mobile: swipe · Desktop: arrows / WASD",
+    "tapStart": "Tap to start",
+    "playAgain": "Play again",
+    "continue": "Continue",
+    "gameOver": "Game over",
+    "finalScore": "Final score",
+    "newRecord": "New record!",
+    "crashed": "You crashed!",
+    "crashedHint": "Swipe a direction (or use the arrows) to continue",
+    "livesLeft": "Lives left: {{n}}",
+    "paused": "Paused"
+  },
+  "a11y": {
+    "menu": "Menu",
+    "fullscreen": "Fullscreen",
+    "exitFullscreen": "Exit fullscreen",
+    "pause": "Pause",
+    "resume": "Resume",
+    "language": "Change language"
+  },
+  "help": {
+    "title": "How to play",
+    "rules": [
+      "You control a snake that moves continuously.",
+      "Eat the numbers (1–9) to grow and score points.",
+      "Each number gives points (multiplied by the level) and makes you longer.",
+      "After number 9 you advance to the next level: a new maze and higher speed.",
+      "You lose a life if you hit a wall or your own tail. You have 3 lives.",
+      "Controls: swipe on screen (mobile) or use the arrows / WASD (desktop).",
+      "Pause: the pause button or the P / Esc key.",
+      "Your best score is saved on this device."
+    ]
+  }
+}

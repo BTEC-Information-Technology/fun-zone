@@ -1,0 +1,15 @@
+{
+  // Build:  npm run build:memory
+  // Deploy: npx wrangler deploy --config apps/memory/wrangler.jsonc
+  // The deploy creates the worker AND both custom domains (fun-zone.app + play-zone.app).
+  "name": "memory",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  },
+  "routes": [
+    { "pattern": "memory.fun-zone.app", "custom_domain": true },
+    { "pattern": "memory.play-zone.app", "custom_domain": true }
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "single_player",
+    "label": {
+      "ro": "Un jucător",
+      "en": "Single player"
+    }
+  },
+  {
+    "id": "offline",
+    "label": {
+      "ro": "Offline",
+      "en": "Offline"
+    }
+  },
+  {
+    "id": "classic",
+    "label": {
+      "ro": "Clasic",
+      "en": "Classic"
+    }
+  },
+  {
+    "id": "kids",
+    "label": {
+      "ro": "Pentru copii",
+      "en": "For kids"
+    }
+  },
+  {
+    "id": "quick",
+    "label": {
+      "ro": "Rapid",
+      "en": "Quick"
+    }
+  },
+  {
+    "id": "free",
+    "label": {
+      "ro": "Gratuit",
+      "en": "Free"
+    }
+  },
+  {
+    "id": "retro",
+    "label": {
+      "ro": "Retro",
+      "en": "Retro"
+    }
+  },
+  {
+    "id": "brain",
+    "label": {
+      "ro": "Antrenament minte",
+      "en": "Brain teaser"
+    }
+  }
+]

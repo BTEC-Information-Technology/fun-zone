@@ -1,0 +1,38 @@
+{
+  "a11y": {
+    "fullscreen": "Ecran complet",
+    "exitFullscreen": "Ieși din ecranul complet",
+    "language": "Schimbă limba",
+    "openFilters": "Deschide filtrele",
+    "closeFilters": "Închide filtrele"
+  },
+  "search": {
+    "apps": "Caută aplicații...",
+    "tags": "Caută taguri..."
+  },
+  "filters": {
+    "title": "Filtre",
+    "categories": "Categorii",
+    "tags": "Taguri",
+    "showAll": "Arată toate",
+    "ok": "Ok",
+    "apply": "Aplică filtrarea"
+  },
+  "grid": {
+    "noResults": "Nicio aplicație nu corespunde filtrelor.",
+    "results": "{{count}} aplicații",
+    "comingSoon": "În curând"
+  },
+  "pagination": {
+    "prev": "Înapoi",
+    "next": "Înainte",
+    "page": "Pagina {{page}} din {{total}}"
+  },
+  "ad": {
+    "label": "Spațiu publicitar"
+  },
+  "nav": {
+    "privacy": "Confidențialitate",
+    "back": "← Înapoi"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  // Build:  npm run build:shopping
+  // Deploy: npx wrangler deploy --config apps/shopping/wrangler.jsonc
+  // The deploy creates the worker AND both custom domains (fun-zone.app + play-zone.app).
+  "name": "shopping",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  },
+  "routes": [
+    { "pattern": "shopping.fun-zone.app", "custom_domain": true },
+    { "pattern": "shopping.play-zone.app", "custom_domain": true }
+  ]
+}

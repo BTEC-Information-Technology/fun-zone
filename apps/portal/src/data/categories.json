@@ -1,0 +1,83 @@
+[
+  {
+    "id": "games",
+    "label": {
+      "ro": "Jocuri",
+      "en": "Games"
+    },
+    "children": [
+      {
+        "id": "arcade",
+        "label": {
+          "ro": "Arcade",
+          "en": "Arcade"
+        }
+      },
+      {
+        "id": "puzzle",
+        "label": {
+          "ro": "Puzzle",
+          "en": "Puzzle"
+        }
+      },
+      {
+        "id": "logic",
+        "label": {
+          "ro": "Logică",
+          "en": "Logic"
+        }
+      },
+      {
+        "id": "board",
+        "label": {
+          "ro": "Jocuri de masă",
+          "en": "Board"
+        }
+      }
+    ]
+  },
+  {
+    "id": "tools",
+    "label": {
+      "ro": "Utilitare",
+      "en": "Tools"
+    },
+    "children": [
+      {
+        "id": "calc",
+        "label": {
+          "ro": "Calcul",
+          "en": "Calculators"
+        }
+      },
+      {
+        "id": "productivity",
+        "label": {
+          "ro": "Productivitate",
+          "en": "Productivity"
+        }
+      },
+      {
+        "id": "converters",
+        "label": {
+          "ro": "Convertoare",
+          "en": "Converters"
+        }
+      },
+      {
+        "id": "shopping",
+        "label": {
+          "ro": "Cumpărături",
+          "en": "Shopping"
+        }
+      }
+    ]
+  },
+  {
+    "id": "fun",
+    "label": {
+      "ro": "Distracție",
+      "en": "Fun"
+    }
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "ad": "Reclamă",
+  "menu": {
+    "play": "Joacă",
+    "help": "Ajutor",
+    "privacy": "Confidențialitate"
+  },
+  "nav": {
+    "back": "← Înapoi"
+  },
+  "hud": {
+    "score": "Scor",
+    "level": "Nivel",
+    "best": "Record"
+  },
+  "overlay": {
+    "intro": "Mănâncă numerele, crește și evită pereții și propria coadă.",
+    "controls": "Mobil: glisează · Desktop: săgeți / WASD",
+    "tapStart": "Atinge pentru a începe",
+    "playAgain": "Joacă din nou",
+    "continue": "Continuă",
+    "gameOver": "Joc terminat",
+    "finalScore": "Scor final",
+    "newRecord": "Record nou!",
+    "crashed": "Te-ai lovit!",
+    "crashedHint": "Glisează o direcție (sau folosește săgețile) pentru a continua",
+    "livesLeft": "Vieți rămase: {{n}}",
+    "paused": "Pauză"
+  },
+  "a11y": {
+    "menu": "Meniu",
+    "fullscreen": "Ecran complet",
+    "exitFullscreen": "Ieși din ecranul complet",
+    "pause": "Pauză",
+    "resume": "Continuă",
+    "language": "Schimbă limba"
+  },
+  "help": {
+    "title": "Cum se joacă",
+    "rules": [
+      "Controlezi un șarpe care se mișcă încontinuu.",
+      "Mănâncă numerele (1–9) ca să crești și să faci puncte.",
+      "Fiecare număr îți dă puncte (înmulțite cu nivelul) și te face mai lung.",
+      "După numărul 9 treci la nivelul următor: labirint nou și viteză mai mare.",
+      "Pierzi o viață dacă lovești un perete sau propria coadă. Ai 3 vieți.",
+      "Controale: glisează pe ecran (mobil) sau folosește săgețile / WASD (desktop).",
+      "Pauză: butonul de pauză sau tasta P / Esc.",
+      "Recordul tău se salvează pe acest dispozitiv."
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+[
+  {
+    "id": "nibbles",
+    "name": "Nibbles",
+    "url": "https://nibbles.fun-zone.app",
+    "image": "/images/apps/nibbles.jpg",
+    "description": {
+      "ro": "Jocul clasic cu șarpe: mănâncă numerele, crește și evită pereții.",
+      "en": "The classic snake game: eat the numbers, grow and avoid the walls."
+    },
+    "categories": [
+      "arcade"
+    ],
+    "tags": [
+      "single_player",
+      "offline",
+      "classic",
+      "retro",
+      "free"
+    ]
+  },
+  {
+    "id": "2048",
+    "name": "2048",
+    "url": "https://2048.fun-zone.app",
+    "image": "/images/apps/2048.png",
+    "description": {
+      "ro": "Combină plăcile cu același număr până ajungi la 2048.",
+      "en": "Combine tiles with the same number until you reach 2048."
+    },
+    "categories": [
+      "puzzle"
+    ],
+    "tags": [
+      "single_player",
+      "offline",
+      "brain",
+      "free"
+    ]
+  },
+  {
+    "id": "sudoku",
+    "name": "Sudoku",
+    "url": "https://sudoku.fun-zone.app",
+    "image": "/images/apps/sudoku.png",
+    "description": {
+      "ro": "Completează grila 9×9 după regulile clasice Sudoku.",
+      "en": "Fill the 9×9 grid following the classic Sudoku rules."
+    },
+    "categories": [
+      "logic",
+      "puzzle"
+    ],
+    "tags": [
+      "single_player",
+      "offline",
+      "brain",
+      "free"
+    ]
+  },
+  {
+    "id": "memory",
+    "name": "Memory",
+    "url": "https://memory.fun-zone.app",
+    "image": "/images/apps/memory.png",
+    "description": {
+      "ro": "Găsește perechile de cartonașe. Antrenament pentru memorie.",
+      "en": "Find the matching card pairs. A memory workout."
+    },
+    "categories": [
+      "logic"
+    ],
+    "tags": [
+      "single_player",
+      "kids",
+      "quick",
+      "free"
+    ]
+  },
+  {
+    "id": "calculator",
+    "name": "Calculator",
+    "url": "https://calculator.fun-zone.app",
+    "image": "/images/apps/calculator.png",
+    "description": {
+      "ro": "Calculator simplu și rapid pentru operații de zi cu zi.",
+      "en": "A simple, fast calculator for everyday operations."
+    },
+    "categories": [
+      "calc"
+    ],
+    "tags": [
+      "offline",
+      "quick",
+      "free"
+    ]
+  },
+  {
+    "id": "stopwatch",
+    "name": "Cronometru",
+    "url": "https://stopwatch.fun-zone.app",
+    "image": "/images/apps/stopwatch.png",
+    "description": {
+      "ro": "Cronometru și temporizator, cu ture și alarmă.",
+      "en": "Stopwatch and timer, with laps and alarm."
+    },
+    "categories": [
+      "productivity"
+    ],
+    "tags": [
+      "offline",
+      "quick",
+      "free"
+    ]
+  },
+  {
+    "id": "units",
+    "name": "Convertor unități",
+    "url": "https://units.fun-zone.app",
+    "image": "/images/apps/units.png",
+    "description": {
+      "ro": "Convertește lungimi, greutăți, temperaturi și altele.",
+      "en": "Convert lengths, weights, temperatures and more."
+    },
+    "categories": [
+      "converters"
+    ],
+    "tags": [
+      "offline",
+      "quick",
+      "free"
+    ]
+  },
+  {
+    "id": "tictactoe",
+    "name": "X și 0",
+    "url": "https://tictactoe.fun-zone.app",
+    "image": "/images/apps/tictactoe.png",
+    "description": {
+      "ro": "Clasicul X și 0, pentru doi jucători pe același dispozitiv.",
+      "en": "The classic tic-tac-toe for two players on the same device."
+    },
+    "categories": [
+      "board"
+    ],
+    "tags": [
+      "offline",
+      "classic",
+      "kids",
+      "free"
+    ]
+  },
+  {
+    "id": "shopping",
+    "name": "Shopping Assistant",
+    "url": "https://shopping.fun-zone.app",
+    "image": "/images/apps/shopping.png",
+    "description": {
+      "ro": "Adună rapid totalul coșului de cumpărături, produs cu produs.",
+      "en": "Quickly add up your shopping cart total, item by item."
+    },
+    "categories": [
+      "productivity"
+    ],
+    "tags": [
+      "offline",
+      "free"
+    ]
+  },
+  {
+    "id": "textscan",
+    "name": "Recunoaștere text",
+    "url": "https://text.fun-zone.app",
+    "image": "/images/apps/textscan.png",
+    "description": {
+      "ro": "Extrage text dintr-o poză cu camera (OCR), editează-l și distribuie-l.",
+      "en": "Extract text from a photo with the camera (OCR), edit and share it."
+    },
+    "categories": [
+      "productivity"
+    ],
+    "tags": [
+      "offline",
+      "free"
+    ]
+  }
+]

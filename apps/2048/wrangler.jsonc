@@ -1,0 +1,15 @@
+{
+  // Build:  npm run build:2048
+  // Deploy: npx wrangler deploy --config apps/2048/wrangler.jsonc
+  // The deploy creates the worker AND both custom domains (fun-zone.app + play-zone.app).
+  "name": "2048",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  },
+  "routes": [
+    { "pattern": "2048.fun-zone.app", "custom_domain": true },
+    { "pattern": "2048.play-zone.app", "custom_domain": true }
+  ]
+}

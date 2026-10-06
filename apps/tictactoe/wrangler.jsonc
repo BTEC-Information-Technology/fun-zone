@@ -1,0 +1,15 @@
+{
+  // Build:  npm run build:tictactoe
+  // Deploy: npx wrangler deploy --config apps/tictactoe/wrangler.jsonc
+  // The deploy creates the worker AND both custom domains (fun-zone.app + play-zone.app).
+  "name": "tictactoe",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  },
+  "routes": [
+    { "pattern": "tictactoe.fun-zone.app", "custom_domain": true },
+    { "pattern": "tictactoe.play-zone.app", "custom_domain": true }
+  ]
+}

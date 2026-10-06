@@ -1,0 +1,11 @@
+{
+  // Cloudflare deploy (Workers Static Assets) for the fun-zone.app portal.
+  // Cloudflare project: build `npm run build --workspace portal`,
+  // deploy `npx wrangler deploy --config apps/portal/wrangler.jsonc`.
+  "name": "fun-zone-portal",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  }
+}
